@@ -1,3 +1,3 @@
 # Amazing Button #1 with pure css
 
-See now → https://anshumanbahekar.github.io/button1/
+Live Preview → https://reallifeironman.github.io/button1/
